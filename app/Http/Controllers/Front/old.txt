@@ -1,0 +1,50 @@
+			if($script->user->hasPermission(['_vip']))
+			{
+				$receiver[0] = new \PayPal\Types\AP\Receiver();
+				$receiver[0]->email = $script->user_profile->first()->paypal_email;
+				$receiver[0]->amount = number_format($primary + $second, 2);
+				
+				if($price_tax)
+				{
+					if($script->user_profile->first()->paypal_email != 'paypal@sourcemod.market')
+					{
+						$receiver[1] = new \PayPal\Types\AP\Receiver();
+						$receiver[1]->email = 'paypal@sourcemod.market';
+						$receiver[1]->amount = number_format($price_tax, 2);
+					}
+					else
+					{
+						$receiver[0]->amount = number_format($primary + $second + $price_tax, 2);
+					}
+				}
+			}
+			else
+			{
+				$receiver[0] = new \PayPal\Types\AP\Receiver();
+				$receiver[0]->email = $script->user_profile->first()->paypal_email;
+				$receiver[0]->amount = number_format($primary, 2);
+				
+				//DEBUG
+				// if($authentication->getLoggedUser()->id != 2)
+				// {
+					// $receiver[1] = new \PayPal\Types\AP\Receiver();
+					// $receiver[1]->email = 'paypal@sourcemod.market';
+					// $receiver[1]->amount = number_format($second + $price_tax, 2);
+				// }
+			}
+			
+			//DEBUG
+			// if(
+				// $authentication->getLoggedUser()->id == 0
+				// ||
+				// $authentication->getLoggedUser()->id == 2
+			// )
+			// {
+				// $receiver[0] = new \PayPal\Types\AP\Receiver();
+				// $receiver[0]->email = 'paypal_sandbox@sourcemod.market';
+				// $receiver[0]->amount = $primary;
+				
+				// $receiver[1] = new \PayPal\Types\AP\Receiver();
+				// $receiver[1]->email = 'paypal_sandbox2@sourcemod.market';
+				// $receiver[1]->amount = $second + $price_tax;
+			// }

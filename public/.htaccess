@@ -1,0 +1,108 @@
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews
+    </IfModule>
+
+    RewriteEngine On
+
+	### FILTRE CONTRE XSS, REDIRECTIONS HTTP, base64_encode, VARIABLE PHP GLOBALS VIA URL, MODIFIER VARIABLE _REQUEST VIA URL, TEST DE FAILLE PHP, INJECTION SQL SIMPLE
+	RewriteCond %{REQUEST_METHOD} (GET|POST) [NC]
+	RewriteCond %{QUERY_STRING} (<|%3C)([^s]*s)+cript.*(>|%3E) [NC,OR]
+	RewriteCond %{QUERY_STRING} (\<|%3C).*iframe.*(\>|%3E) [NC,OR]
+	RewriteCond %{QUERY_STRING} ((java)?script:).*(;).* [NC,OR]   
+	RewriteCond %{QUERY_STRING} .*(\&lt;script).* [NC] 
+	RewriteCond %{QUERY_STRING} ^(.*)(%3C|<)/?script(.*)$ [NC,OR]
+	RewriteCond %{QUERY_STRING} ^(.*)(%3D|=)?javascript(%3A|:)(.*)$ [NC,OR]
+	RewriteCond %{QUERY_STRING} ^(.*)document\.location\.href(.*)$ [OR]
+	RewriteCond %{QUERY_STRING} ^.*(%24&x).* [NC,OR]
+	RewriteCond %{QUERY_STRING} ^.*(127\.0).* [NC,OR]
+	RewriteCond %{QUERY_STRING} ^(.*)(%3D|=)(https?|ftp|mosConfig)(%3A|:)//(.*)$ [NC,OR] ## ATTENTION A CETTE REGLE. ELLE PEUT CASSER CERTAINES REDIRECTIONS RESSEMBLANT A: http://www.truc.fr/index.php?r=http://www.google.fr ##
+	RewriteCond %{QUERY_STRING} ^.*(_encode|localhost|loopback).* [NC,OR]
+	RewriteCond %{QUERY_STRING} ^(.*)GLOBALS(=|[|%[0-9A-Z]{0,2})(.*)$ [OR]
+	RewriteCond %{QUERY_STRING} ^(.*)_REQUEST(=|[|%[0-9A-Z]{0,2})(.*)$ [OR]
+	RewriteCond %{QUERY_STRING} ^(.*)(SELECT(%20|\+)|UNION(%20|\+)ALL|INSERT(%20|\+)|DELETE(%20|\+)|CHAR\(|UPDATE(%20|\+)|REPLACE(%20|\+)|LIMIT(%20|\+)|CONCAT(%20|\+)|DECLARE(%20|\+))(.*)$ [NC]
+	RewriteRule ^(.*)$ https://sourcemod.market/404 [L]
+	
+	### DES FAUX URLS OU VIEUX SYSTEMES OBSOLETES, ON LES NEUTRALISE
+	RedirectMatch 403 (\.\./|base64|boot\.ini|eval\(|\(null\)|^[-_a-z0-9/\.]*//.*|/etc/passwd|^/_vti.*|^/MSOffice.*|/fckeditor/|/elfinder/|zoho/|/jquery-file-upload/server/|/assetmanager/|wwwroot|e107\_)
+	# DESACTIVE LES METHODES DE REQUETES TRACE TRACK DELETE
+	RewriteCond %{REQUEST_METHOD} ^(TRACE|DELETE|TRACK) [NC]
+	RewriteRule ^(.*)$ https://sourcemod.market/404 [L]
+	
+	### FILTRE CONTRE PHPSHELL.PHP, REMOTEVIEW, c99Shell et autres
+	RewriteCond %{REQUEST_URI} .*((php|my)?shell|remview.*|phpremoteview.*|sshphp.*|pcom|nstview.*|c99|r57|webadmin.*|phpget.*|phpwriter.*|fileditor.*|locus7.*|storm7.*)\.(p?s?x?htm?l?|txt|aspx?|cfml?|cgi|pl|php[3-9]{0,1}|jsp?|sql|xml) [NC,OR]
+	RewriteCond %{REQUEST_METHOD} (GET|POST) [NC]
+	RewriteCond %{QUERY_STRING} ^(.*)=/home/loginftp/(.*)$ [OR]
+	RewriteCond %{QUERY_STRING} ^work_dir=.*$ [OR]
+	RewriteCond %{QUERY_STRING} ^command=.*&output.*$ [OR]
+	RewriteCond %{QUERY_STRING} ^nts_[a-z0-9_]{0,10}=.*$ [OR]
+	RewriteCond %{QUERY_STRING} ^(.*)cmd=.*$ [OR] ## ATTENTION A CETTE REGLE. ELLE PEUT CASSER VOTRE SITE ##
+	RewriteCond %{QUERY_STRING} ^c=(t|setup|codes)$ [OR]
+	RewriteCond %{QUERY_STRING} ^act=((about|cmd|selfremove|chbd|trojan|backc|massbrowsersploit|exploits|grablogins|upload.*)|((chmod|f)&f=.*))$ [OR]
+	RewriteCond %{QUERY_STRING} ^act=(ls|search|fsbuff|encoder|tools|processes|ftpquickbrute|security|sql|eval|update|feedback|cmd|gofile|mkfile)&d=.*$ [OR]
+	RewriteCond %{QUERY_STRING} ^&?c=(l?v?i?&d=|v&fnot=|setup&ref=|l&r=|d&d=|tree&d|t&d=|e&d=|i&d=|codes|md5crack).*$ [OR]
+	RewriteCond %{QUERY_STRING} ^(.*)([-_a-z]{1,15})=(ls|cd|cat|rm|mv|vim|chmod|chdir|concat|mkdir|rmdir|pwd|clear|whoami|uname|tar|zip|unzip|gzip|gunzip|grep|more|ln|umask|telnet|ssh|ftp|head|tail|which|mkmode|touch|logname|edit_file|search_text|find_text|php_eval|download_file|ftp_file_down|ftp_file_up|ftp_brute|mail_file|mysql|mysql_dump|db_query)([^a-zA-Z0-9].+)*$ [OR]
+	RewriteCond %{QUERY_STRING} ^(.*)(wget|shell_exec|passthru|system|exec|popen|proc_open)(.*)$
+	RewriteRule ^(.*)$ https://sourcemod.market/404 [L]
+	
+
+
+    # Handle Front Controller...
+	RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+	
+	RewriteCond %{THE_REQUEST} ^GET.*index\.php [NC]
+	RewriteRule (.*?)index\.php/*(.*) /$1$2 [R=301,NE,L]
+
+    # Handle Authorization Header
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+	
+	#RewriteCond %{HTTP_HOST} ^www\.sourcemod\.market$
+	#RewriteRule ^/?$ "https\:\/\/sourcemod\.market\/" [R=301,L]
+	
+	#RewriteCond %{HTTP_HOST} ^91\.121\.21\.121
+	#RewriteRule (.*) https://sourcemod.market/$1 [R=301,L]
+	
+	RewriteCond %{HTTP_USER_AGENT} libwww-perl.* 
+	#RewriteRule .* ? [F,L]
+	RewriteRule https://sourcemod.market/404 [L]
+	
+</IfModule>
+
+## EXPIRES CACHING ##
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType image/jpg "access 1 year"
+ExpiresByType image/jpeg "access 1 year"
+ExpiresByType image/gif "access 1 year"
+ExpiresByType image/png "access 1 year"
+ExpiresByType text/css "access 1 month"
+ExpiresByType text/html "access plus 2 days"
+ExpiresByType application/pdf "access 1 month"
+ExpiresByType text/x-javascript "access 1 month"
+ExpiresByType application/x-shockwave-flash "access 1 month"
+ExpiresByType image/x-icon "access 1 year"
+ExpiresDefault "access 1 month"
+</IfModule>
+## EXPIRES CACHING ##
+
+<IfModule mod_gzip.c>
+mod_gzip_on Yes
+mod_gzip_dechunk Yes
+mod_gzip_item_include file .(html?|txt|css|js|php|pl)$
+mod_gzip_item_include handler ^cgi-script$
+mod_gzip_item_include mime ^text/.*
+mod_gzip_item_include mime ^application/x-javascript.*
+mod_gzip_item_exclude mime ^image/.*
+mod_gzip_item_exclude rspheader ^Content-Encoding:.*gzip.*
+</IfModule>
+
+<IfModule mod_headers.c>
+<FilesMatch ".(js|css|xml|gz)$">
+Header append Vary: Accept-Encoding
+</FilesMatch>
+# Set XSS Protection header
+Header set X-XSS-Protection "1; mode=block"
+</IfModule>

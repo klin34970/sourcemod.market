@@ -1,0 +1,25 @@
+<?php
+return
+[
+	'navbar-left-new-script' => 'Post new job',
+	'title' => 'List of your jobs',
+	'header-title' => 'Jobs',
+	'header-title-small' => 'List of your jobs',
+	'header-you-are-here' => 'You are here',
+	'breadcrumb-home' => 'Dashboard',
+	'breadcrumb-scripts' => 'Jobs',
+	'breadcrumb-active' => 'List',
+	'table-header-name' => 'Jobs',
+	'table-header-game' => 'Game',
+	'table-header-key' => '#',
+	'table-header-price' => 'Price',
+	'table-header-appliers' => 'Appliers',
+	'table-header-action' => 'Action',
+	'table-header-active' => 'Active',
+	'table-header-reason' => 'Approvement',
+	'table-edit' => 'Edit',
+	'table-view' => 'View',
+	'table-disable' => 'Disable',
+	'table-active' => 'Active',
+	'confirm-delete' => 'Are you sure to delete this script?',
+];

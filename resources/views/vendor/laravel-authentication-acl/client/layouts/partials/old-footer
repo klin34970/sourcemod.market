@@ -1,0 +1,184 @@
+<footer class="footer-content">
+
+	<div>
+	
+		<div class="row">
+		
+			<div class="col-md-2 col-sm-6 col-xs-12">
+				<img alt="sourcemod market" class="img-responsive" src="/assets/images/logos/300x79.png">
+				<a target="_blank" href="https://www.facebook.com/sourcemodmarket/" class="margin-right-5 btn btn-circle btn-facebook"><i class="fa fa-facebook"></i></a>
+				<a target="_blank" href="https://twitter.com/SourcemodMarket" class="margin-right-5 btn btn-circle btn-twitter"><i class="fa fa-twitter"></i></a>
+				<a target="_blank" href="http://steamcommunity.com/groups/sourcemodmarket" class="margin-right-5 btn btn-circle btn-theme"><i class="fa fa-steam"></i></a>
+			</div>
+			
+			<div class="col-md-2 col-sm-6 col-xs-12">
+			</div>
+			
+			<div class="col-md-2 col-sm-6 col-xs-12">
+				<div class="panel panel-theme rounded shadow">
+					<div class="panel-heading text-center">
+						<p class="inner-all no-margin">
+							<i class="fa fa-suitcase fa-5x"></i>
+						</p>
+					</div><!-- /.panel-heading -->
+					<div class="panel-body text-center">
+						<p class="h4 no-margin text-strong">{{ $total_jobs}} {{ trans('front/footer/footer.jobs') }}</p>
+					</div><!-- /.panel-body -->
+				</div><!-- /.panel -->
+			</div>
+			
+			<div class="col-md-2 col-sm-6 col-xs-12">
+				<div class="panel panel-theme rounded shadow">
+					<div class="panel-heading text-center">
+						<p class="inner-all no-margin">
+							<i class="fa fa-code-fork fa-5x"></i>
+						</p>
+					</div><!-- /.panel-heading -->
+					<div class="panel-body text-center">
+						<p class="h4 no-margin text-strong">{{ $total_scripts}} {{ trans('front/footer/footer.scripts') }}</p>
+					</div><!-- /.panel-body -->
+				</div><!-- /.panel -->
+			</div>
+			
+			<div class="col-md-2 col-sm-6 col-xs-12">
+				<div class="panel panel-theme rounded shadow">
+					<div class="panel-heading text-center">
+						<p class="inner-all no-margin">
+							<i class="fa fa-users fa-5x"></i>
+						</p>
+					</div><!-- /.panel-heading -->
+					<div class="panel-body text-center">
+						<p class="h4 no-margin text-strong">{{ $total_users}} {{ trans('front/footer/footer.users') }}</p>
+					</div><!-- /.panel-body -->
+				</div><!-- /.panel -->
+			</div>
+			
+			<div class="col-md-2 col-sm-6 col-xs-12">
+				<div class="panel panel-theme rounded shadow">
+					<div class="panel-heading text-center">
+						<p class="inner-all no-margin">
+							<i class="fa fa-genderless fa-5x"></i>
+						</p>
+					</div><!-- /.panel-heading -->
+					<div class="panel-body text-center">
+						<p class="h4 no-margin text-strong"><span id="counter_online">{{ $total_users_online }}&nbsp;</span> online users</p>
+					</div><!-- /.panel-body -->
+				</div><!-- /.panel -->
+			</div>
+			
+			
+		</div>
+		
+		<div class="row">
+		
+			<div class="col-md-4 col-sm-4 col-xs-12">
+			
+				<div class="panel panel-theme shadow">
+					<div class="panel-heading">
+						<div class="text-center">
+							<h3 class="panel-title">{{ trans('front/footer/footer.scripts') }}</h3>
+						</div>
+						<div class="clearfix"></div>
+					</div><!-- /.panel-heading -->
+					<div class="panel-body no-padding">
+						<ul class="list-group no-margin">
+							<a class="list-group-item" href="{{URL::route('scripts.list') }}">List of scripts</a>
+							<a class="list-group-item" href="{{URL::route('dashboard.scripts.edit') }}">Post your script</a>
+							<a class="list-group-item" href="{{URL::route('sourceguard.servers.list') }}">SourceGuard</a>
+						</ul>
+					</div><!-- /.panel-body -->
+				</div>			
+			</div>
+			
+			<div class="col-md-4 col-sm-4 col-xs-12">
+			
+				<div class="panel panel-theme shadow">
+					<div class="panel-heading">
+						<div class="text-center">
+							<h3 class="panel-title">{{ trans('front/footer/footer.community') }}</h3>
+						</div>
+						<div class="clearfix"></div>
+					</div><!-- /.panel-heading -->
+					<div class="panel-body no-padding">
+						<ul class="list-group no-margin">
+							<a class="list-group-item" href="{{URL::route('users.front.list') }}">Registered Users</a>
+							<a class="list-group-item" href="{{URL::route('community.forum') }}">Forum</a>
+						</ul>
+					</div><!-- /.panel-body -->
+				</div>	
+				
+			</div>
+			
+			<div class="col-md-4 col-sm-4 col-xs-12">
+				
+				<div class="panel panel-theme shadow">
+					<div class="panel-heading">
+						<div class="text-center">
+							<h3 class="panel-title">{{ trans('front/footer/footer.company') }}</h3>
+						</div>
+						<div class="clearfix"></div>
+					</div><!-- /.panel-heading -->
+					<div class="panel-body no-padding">
+						<ul class="list-group no-margin">
+							<a class="list-group-item" href="{{URL::route('help.contact') }}">Contact</a>
+							<a class="list-group-item" href="{{URL::route('help.faq') }}">FAQ</a>
+							<a class="list-group-item" href="{{URL::route('about.terms') }}">Terms and Conditions</a>
+							<a class="list-group-item" href="{{URL::route('about.policy') }}">Privacy Policy</a>
+							<a class="list-group-item" href="{{URL::to('/') }}/sitemap.xml">Sitemap</a>
+						</ul>
+					</div><!-- /.panel-body -->
+				</div>	
+				
+			</div>
+			
+		</div>
+		
+		<div class="row">
+			
+			<div class="col-md-12">
+		
+				<div class="panel panel-theme shadow">
+					<div class="panel-heading">
+						<div class="text-center">
+							<h3 class="panel-title">{{ trans('front/footer/footer.partners') }}</h3>
+						</div>
+						<div class="clearfix"></div>
+					</div><!-- /.panel-heading -->
+					<div class="panel-body">
+						<div class="col-md-2 col-sm-3 col-xs-3">
+							<a target="_blank" href="http://www.evendream.fr/">
+								<img alt="evendream"  class="img-responsive" src="/assets/images/partners/ed.png">
+							</a>
+						</div>
+						<div class="col-md-2 col-sm-3 col-xs-3">
+							<a target="_blank" href="http://rz-digital.com">
+								<img alt="rz digital" class="img-responsive" src="/assets/images/partners/rz.png">
+							</a>
+						</div>
+						<div class="col-md-2 col-sm-3 col-xs-3">
+							<a target="_blank" href="https://rayex.co/">
+								<img alt="rz digital" class="img-responsive" src="/assets/images/partners/rayex.png">
+							</a>
+						</div>
+					</div><!-- /.panel-body -->
+				</div>
+				
+			</div>
+			
+		</div>
+		
+		<div class="line no-margin"></div>
+		
+		<div class="row">
+		
+			<div class="col-md-6">
+				<span class="text-left">@ 2016 Sourcemod.Market</span>
+			</div>
+			
+			<div class="col-md-6">
+			</div>
+		
+		</div>
+		
+	</div>
+</footer>

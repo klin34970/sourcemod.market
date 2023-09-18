@@ -1,0 +1,3 @@
+/* PERMISSIONS & GROUPES */
+_approver est utilisé pour approuvé les scripts.
+_vip met la commission à 0%

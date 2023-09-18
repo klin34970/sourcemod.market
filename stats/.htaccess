@@ -1,0 +1,7 @@
+AuthName "sourcemod.market statistics"
+AuthType Basic
+AuthUserFile /var/www/vhosts/sourcemod.market/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

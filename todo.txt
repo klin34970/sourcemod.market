@@ -1,0 +1,5 @@
+ScriptController.php
+function viewScriptDownloads et autres
+/*|| $script->reports->count() >= (int)config('sourcemod.market.report_scripts_stop_download')*/
+Le reports au dessus de 3 mene à une erreur 404
+Personnaliser cette erreur

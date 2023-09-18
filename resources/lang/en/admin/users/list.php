@@ -1,0 +1,33 @@
+<?php
+return
+[
+	'title' => 'Users list',
+	'header-title' => 'Users',
+	'header-title-small' => 'Users list',
+	'header-you-are-here' => 'You are here',
+	'header-breadcrumb-home' => 'Dashboard',
+	'header-breadcrumb-users' => 'Users',
+	'header-breadcrumb-active' => 'Users list',
+	'table-header-name' => 'Name',
+	'table-header-email' => 'Email',
+	'table-header-activated' => 'Activation',
+	'table-header-banned' => 'Banned',
+	'table-header-action' => 'Action',
+	'table-view' => 'View',
+	'table-view-tooltip' => 'View details',
+	'table-edit' => 'Edit',
+	'table-edit-tooltip' => 'Edit',
+	'table-delete' => 'Delete',
+	'table-delete-tooltip' => 'Delete',
+	'delete-confirm' => 'Are you sure to delete this user?',
+	
+	'table-header-key' => '#',
+	'breadcrumb-home' => 'Dashboard',
+	'breadcrumb-users' => 'Admins',
+	'breadcrumb-active' => 'Users',
+	'table-header-registered' => 'Registered',
+	'table-header-report' => 'Report',
+	'table-reports' => 'reports',
+	'ban' => 'Ban him',
+	'unban' => 'Unban him',
+];

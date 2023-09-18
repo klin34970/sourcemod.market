@@ -1,0 +1,2343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://sourcemod.devsapps.com/vendor/sitemap/styles/xml.xsl" type="text/xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://sourcemod.devsapps.com</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-09-08T11:43:57+02:00</lastmod>
+		<changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/69/cs-global-offensive/gameplay/deathrun-skip-ct</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:51:06+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/69/750x212.jpg</image:loc>
+			<image:title>[DeathRun] Skip CT </image:title>
+			<image:caption>[DeathRun] Skip CT </image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/69/cs-global-offensive/gameplay/deathrun-skip-ct/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:51:06+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/69/750x212.jpg</image:loc>
+			<image:title>[DeathRun] Skip CT </image:title>
+			<image:caption>[DeathRun] Skip CT </image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/69/cs-global-offensive/gameplay/deathrun-skip-ct/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:51:06+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/69/750x212.jpg</image:loc>
+			<image:title>[DeathRun] Skip CT </image:title>
+			<image:caption>[DeathRun] Skip CT </image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/69/cs-global-offensive/gameplay/deathrun-skip-ct/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:51:06+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/69/750x212.jpg</image:loc>
+			<image:title>[DeathRun] Skip CT </image:title>
+			<image:caption>[DeathRun] Skip CT </image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/66/cs-global-offensive/general-purpose/asilvapt-chat-clan-tags</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T19:54:06+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/66/750x212.jpg</image:loc>
+			<image:title>ASILVAPT Chat &amp; Clan Tags</image:title>
+			<image:caption>ASILVAPT Chat &amp; Clan Tags</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/66/cs-global-offensive/general-purpose/asilvapt-chat-clan-tags/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T19:54:06+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/66/750x212.jpg</image:loc>
+			<image:title>ASILVAPT Chat &amp; Clan Tags</image:title>
+			<image:caption>ASILVAPT Chat &amp; Clan Tags</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/66/cs-global-offensive/general-purpose/asilvapt-chat-clan-tags/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T19:54:06+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/66/750x212.jpg</image:loc>
+			<image:title>ASILVAPT Chat &amp; Clan Tags</image:title>
+			<image:caption>ASILVAPT Chat &amp; Clan Tags</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/66/cs-global-offensive/general-purpose/asilvapt-chat-clan-tags/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T19:54:06+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/66/750x212.jpg</image:loc>
+			<image:title>ASILVAPT Chat &amp; Clan Tags</image:title>
+			<image:caption>ASILVAPT Chat &amp; Clan Tags</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/63/cs-global-offensive/fun-stuff/csscsgo-hitmarker-reborn</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T18:02:50+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/63/750x212.jpg</image:loc>
+			<image:title>[CS:S/CS:GO] HitMarker Reborn</image:title>
+			<image:caption>[CS:S/CS:GO] HitMarker Reborn</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/63/cs-global-offensive/fun-stuff/csscsgo-hitmarker-reborn/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T18:02:50+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/63/750x212.jpg</image:loc>
+			<image:title>[CS:S/CS:GO] HitMarker Reborn</image:title>
+			<image:caption>[CS:S/CS:GO] HitMarker Reborn</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/63/cs-global-offensive/fun-stuff/csscsgo-hitmarker-reborn/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T18:02:50+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/63/750x212.jpg</image:loc>
+			<image:title>[CS:S/CS:GO] HitMarker Reborn</image:title>
+			<image:caption>[CS:S/CS:GO] HitMarker Reborn</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/63/cs-global-offensive/fun-stuff/csscsgo-hitmarker-reborn/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T18:02:50+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/63/750x212.jpg</image:loc>
+			<image:title>[CS:S/CS:GO] HitMarker Reborn</image:title>
+			<image:caption>[CS:S/CS:GO] HitMarker Reborn</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/62/cs-global-offensive/fun-stuff/ayna-plugin</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T19:14:50+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/62/750x212.jpg</image:loc>
+			<image:title>Ayna plugin</image:title>
+			<image:caption>Ayna plugin</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/62/cs-global-offensive/fun-stuff/ayna-plugin/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T19:14:50+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/62/750x212.jpg</image:loc>
+			<image:title>Ayna plugin</image:title>
+			<image:caption>Ayna plugin</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/62/cs-global-offensive/fun-stuff/ayna-plugin/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T19:14:50+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/62/750x212.jpg</image:loc>
+			<image:title>Ayna plugin</image:title>
+			<image:caption>Ayna plugin</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/62/cs-global-offensive/fun-stuff/ayna-plugin/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T19:14:50+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/62/750x212.jpg</image:loc>
+			<image:title>Ayna plugin</image:title>
+			<image:caption>Ayna plugin</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/59/cs-global-offensive/gameplay/warning-shots</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T15:26:51+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/59/750x212.jpg</image:loc>
+			<image:title>Warning Shots</image:title>
+			<image:caption>Warning Shots</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/59/cs-global-offensive/gameplay/warning-shots/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T15:26:51+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/59/750x212.jpg</image:loc>
+			<image:title>Warning Shots</image:title>
+			<image:caption>Warning Shots</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/59/cs-global-offensive/gameplay/warning-shots/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T15:26:51+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/59/750x212.jpg</image:loc>
+			<image:title>Warning Shots</image:title>
+			<image:caption>Warning Shots</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/59/cs-global-offensive/gameplay/warning-shots/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T15:26:51+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/59/750x212.jpg</image:loc>
+			<image:title>Warning Shots</image:title>
+			<image:caption>Warning Shots</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/58/cs-global-offensive/gameplay/black-market</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:23:15+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/58/750x212.jpg</image:loc>
+			<image:title>Black Market</image:title>
+			<image:caption>Black Market</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/58/cs-global-offensive/gameplay/black-market/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:23:15+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/58/750x212.jpg</image:loc>
+			<image:title>Black Market</image:title>
+			<image:caption>Black Market</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/58/cs-global-offensive/gameplay/black-market/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:23:15+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/58/750x212.jpg</image:loc>
+			<image:title>Black Market</image:title>
+			<image:caption>Black Market</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/58/cs-global-offensive/gameplay/black-market/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:23:15+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/58/750x212.jpg</image:loc>
+			<image:title>Black Market</image:title>
+			<image:caption>Black Market</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/56/cs-global-offensive/general-purpose/csgo-join-team-fix</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:28:58+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/56/750x212.jpg</image:loc>
+			<image:title>[CS:GO] Join Team Fix</image:title>
+			<image:caption>[CS:GO] Join Team Fix</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/56/cs-global-offensive/general-purpose/csgo-join-team-fix/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:28:58+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/56/750x212.jpg</image:loc>
+			<image:title>[CS:GO] Join Team Fix</image:title>
+			<image:caption>[CS:GO] Join Team Fix</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/56/cs-global-offensive/general-purpose/csgo-join-team-fix/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:28:58+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/56/750x212.jpg</image:loc>
+			<image:title>[CS:GO] Join Team Fix</image:title>
+			<image:caption>[CS:GO] Join Team Fix</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/56/cs-global-offensive/general-purpose/csgo-join-team-fix/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:28:58+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/56/750x212.jpg</image:loc>
+			<image:title>[CS:GO] Join Team Fix</image:title>
+			<image:caption>[CS:GO] Join Team Fix</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/53/cs-global-offensive/map/pack-map-and-zones</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T09:47:47+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/53/750x212.jpg</image:loc>
+			<image:title>Pack map and zones</image:title>
+			<image:caption>Pack map and zones</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/53/cs-global-offensive/map/pack-map-and-zones/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T09:47:47+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/53/750x212.jpg</image:loc>
+			<image:title>Pack map and zones</image:title>
+			<image:caption>Pack map and zones</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/53/cs-global-offensive/map/pack-map-and-zones/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T09:47:47+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/53/750x212.jpg</image:loc>
+			<image:title>Pack map and zones</image:title>
+			<image:caption>Pack map and zones</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/53/cs-global-offensive/map/pack-map-and-zones/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T09:47:47+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/53/750x212.jpg</image:loc>
+			<image:title>Pack map and zones</image:title>
+			<image:caption>Pack map and zones</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/52/cs-global-offensive/fun-stuff/csgo-admin-bomb</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:49:29+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/52/750x212.jpg</image:loc>
+			<image:title>[CS:GO] Admin Bomb</image:title>
+			<image:caption>[CS:GO] Admin Bomb</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/52/cs-global-offensive/fun-stuff/csgo-admin-bomb/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:49:29+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/52/750x212.jpg</image:loc>
+			<image:title>[CS:GO] Admin Bomb</image:title>
+			<image:caption>[CS:GO] Admin Bomb</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/52/cs-global-offensive/fun-stuff/csgo-admin-bomb/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:49:29+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/52/750x212.jpg</image:loc>
+			<image:title>[CS:GO] Admin Bomb</image:title>
+			<image:caption>[CS:GO] Admin Bomb</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/52/cs-global-offensive/fun-stuff/csgo-admin-bomb/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:49:29+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/52/750x212.jpg</image:loc>
+			<image:title>[CS:GO] Admin Bomb</image:title>
+			<image:caption>[CS:GO] Admin Bomb</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/51/cs-global-offensive/fun-stuff/csgo-smoke-weed</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T06:47:39+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/51/750x212.jpg</image:loc>
+			<image:title>[CS:GO] Smoke Weed</image:title>
+			<image:caption>[CS:GO] Smoke Weed</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/51/cs-global-offensive/fun-stuff/csgo-smoke-weed/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T06:47:39+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/51/750x212.jpg</image:loc>
+			<image:title>[CS:GO] Smoke Weed</image:title>
+			<image:caption>[CS:GO] Smoke Weed</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/51/cs-global-offensive/fun-stuff/csgo-smoke-weed/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T06:47:39+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/51/750x212.jpg</image:loc>
+			<image:title>[CS:GO] Smoke Weed</image:title>
+			<image:caption>[CS:GO] Smoke Weed</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/51/cs-global-offensive/fun-stuff/csgo-smoke-weed/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T06:47:39+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/51/750x212.jpg</image:loc>
+			<image:title>[CS:GO] Smoke Weed</image:title>
+			<image:caption>[CS:GO] Smoke Weed</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/46/cs-global-offensive/admin-commands/new-propsadmin</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:54:28+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/46/750x212.jpg</image:loc>
+			<image:title>The new PropsAdmin</image:title>
+			<image:caption>The new PropsAdmin</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/46/cs-global-offensive/admin-commands/new-propsadmin/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:54:28+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/46/750x212.jpg</image:loc>
+			<image:title>The new PropsAdmin</image:title>
+			<image:caption>The new PropsAdmin</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/46/cs-global-offensive/admin-commands/new-propsadmin/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:54:28+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/46/750x212.jpg</image:loc>
+			<image:title>The new PropsAdmin</image:title>
+			<image:caption>The new PropsAdmin</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/46/cs-global-offensive/admin-commands/new-propsadmin/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:54:28+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/46/750x212.jpg</image:loc>
+			<image:title>The new PropsAdmin</image:title>
+			<image:caption>The new PropsAdmin</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/45/cs-global-offensive/map/zr-east-borough-z4e</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T10:30:29+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/45/750x212.jpg</image:loc>
+			<image:title>zr_east_borough_z4e</image:title>
+			<image:caption>zr_east_borough_z4e</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/45/cs-global-offensive/map/zr-east-borough-z4e/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T10:30:29+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/45/750x212.jpg</image:loc>
+			<image:title>zr_east_borough_z4e</image:title>
+			<image:caption>zr_east_borough_z4e</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/45/cs-global-offensive/map/zr-east-borough-z4e/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T10:30:29+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/45/750x212.jpg</image:loc>
+			<image:title>zr_east_borough_z4e</image:title>
+			<image:caption>zr_east_borough_z4e</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/45/cs-global-offensive/map/zr-east-borough-z4e/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T10:30:29+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/45/750x212.jpg</image:loc>
+			<image:title>zr_east_borough_z4e</image:title>
+			<image:caption>zr_east_borough_z4e</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/44/cs-global-offensive/map/zr-hotel</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:24:39+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/44/750x212.jpg</image:loc>
+			<image:title>zr_hotel</image:title>
+			<image:caption>zr_hotel</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/44/cs-global-offensive/map/zr-hotel/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:24:39+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/44/750x212.jpg</image:loc>
+			<image:title>zr_hotel</image:title>
+			<image:caption>zr_hotel</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/44/cs-global-offensive/map/zr-hotel/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:24:39+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/44/750x212.jpg</image:loc>
+			<image:title>zr_hotel</image:title>
+			<image:caption>zr_hotel</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/44/cs-global-offensive/map/zr-hotel/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:24:39+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/44/750x212.jpg</image:loc>
+			<image:title>zr_hotel</image:title>
+			<image:caption>zr_hotel</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/43/cs-global-offensive/map/zr-roadwarrior</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T06:10:47+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/43/750x212.jpg</image:loc>
+			<image:title>zr_roadwarrior</image:title>
+			<image:caption>zr_roadwarrior</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/43/cs-global-offensive/map/zr-roadwarrior/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T06:10:47+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/43/750x212.jpg</image:loc>
+			<image:title>zr_roadwarrior</image:title>
+			<image:caption>zr_roadwarrior</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/43/cs-global-offensive/map/zr-roadwarrior/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T06:10:47+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/43/750x212.jpg</image:loc>
+			<image:title>zr_roadwarrior</image:title>
+			<image:caption>zr_roadwarrior</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/43/cs-global-offensive/map/zr-roadwarrior/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T06:10:47+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/43/750x212.jpg</image:loc>
+			<image:title>zr_roadwarrior</image:title>
+			<image:caption>zr_roadwarrior</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/42/cs-global-offensive/map/zr-roadwarrior-night</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-15T17:09:23+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/42/750x212.jpg</image:loc>
+			<image:title>zr_roadwarrior_night</image:title>
+			<image:caption>zr_roadwarrior_night</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/42/cs-global-offensive/map/zr-roadwarrior-night/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-15T17:09:23+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/42/750x212.jpg</image:loc>
+			<image:title>zr_roadwarrior_night</image:title>
+			<image:caption>zr_roadwarrior_night</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/42/cs-global-offensive/map/zr-roadwarrior-night/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-15T17:09:23+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/42/750x212.jpg</image:loc>
+			<image:title>zr_roadwarrior_night</image:title>
+			<image:caption>zr_roadwarrior_night</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/42/cs-global-offensive/map/zr-roadwarrior-night/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-15T17:09:23+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/42/750x212.jpg</image:loc>
+			<image:title>zr_roadwarrior_night</image:title>
+			<image:caption>zr_roadwarrior_night</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/41/cs-global-offensive/map/zr-gasdump-night</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-16T12:29:46+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/41/750x212.jpg</image:loc>
+			<image:title>zr_gasdump_night</image:title>
+			<image:caption>zr_gasdump_night</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/41/cs-global-offensive/map/zr-gasdump-night/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-16T12:29:46+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/41/750x212.jpg</image:loc>
+			<image:title>zr_gasdump_night</image:title>
+			<image:caption>zr_gasdump_night</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/41/cs-global-offensive/map/zr-gasdump-night/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-16T12:29:46+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/41/750x212.jpg</image:loc>
+			<image:title>zr_gasdump_night</image:title>
+			<image:caption>zr_gasdump_night</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/41/cs-global-offensive/map/zr-gasdump-night/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-16T12:29:46+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/41/750x212.jpg</image:loc>
+			<image:title>zr_gasdump_night</image:title>
+			<image:caption>zr_gasdump_night</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/40/cs-global-offensive/map/zr-gasdump</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-16T23:08:45+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/40/750x212.jpg</image:loc>
+			<image:title>zr_gasdump</image:title>
+			<image:caption>zr_gasdump</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/40/cs-global-offensive/map/zr-gasdump/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-16T23:08:45+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/40/750x212.jpg</image:loc>
+			<image:title>zr_gasdump</image:title>
+			<image:caption>zr_gasdump</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/40/cs-global-offensive/map/zr-gasdump/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-16T23:08:45+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/40/750x212.jpg</image:loc>
+			<image:title>zr_gasdump</image:title>
+			<image:caption>zr_gasdump</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/40/cs-global-offensive/map/zr-gasdump/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-16T23:08:45+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/40/750x212.jpg</image:loc>
+			<image:title>zr_gasdump</image:title>
+			<image:caption>zr_gasdump</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/39/cs-global-offensive/map/zr-losttemple</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T04:40:43+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/39/750x212.jpg</image:loc>
+			<image:title>zr_losttemple</image:title>
+			<image:caption>zr_losttemple</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/39/cs-global-offensive/map/zr-losttemple/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T04:40:43+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/39/750x212.jpg</image:loc>
+			<image:title>zr_losttemple</image:title>
+			<image:caption>zr_losttemple</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/39/cs-global-offensive/map/zr-losttemple/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T04:40:43+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/39/750x212.jpg</image:loc>
+			<image:title>zr_losttemple</image:title>
+			<image:caption>zr_losttemple</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/39/cs-global-offensive/map/zr-losttemple/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T04:40:43+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/39/750x212.jpg</image:loc>
+			<image:title>zr_losttemple</image:title>
+			<image:caption>zr_losttemple</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/38/cs-global-offensive/map/zr-nomercy-z4e</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T07:55:33+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/38/750x212.jpg</image:loc>
+			<image:title>zr_nomercy_z4e</image:title>
+			<image:caption>zr_nomercy_z4e</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/38/cs-global-offensive/map/zr-nomercy-z4e/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T07:55:33+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/38/750x212.jpg</image:loc>
+			<image:title>zr_nomercy_z4e</image:title>
+			<image:caption>zr_nomercy_z4e</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/38/cs-global-offensive/map/zr-nomercy-z4e/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T07:55:33+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/38/750x212.jpg</image:loc>
+			<image:title>zr_nomercy_z4e</image:title>
+			<image:caption>zr_nomercy_z4e</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/38/cs-global-offensive/map/zr-nomercy-z4e/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T07:55:33+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/38/750x212.jpg</image:loc>
+			<image:title>zr_nomercy_z4e</image:title>
+			<image:caption>zr_nomercy_z4e</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/37/cs-global-offensive/map/zr-metro</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T06:04:20+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/37/750x212.jpg</image:loc>
+			<image:title>zr_metro</image:title>
+			<image:caption>zr_metro</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/37/cs-global-offensive/map/zr-metro/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T06:04:20+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/37/750x212.jpg</image:loc>
+			<image:title>zr_metro</image:title>
+			<image:caption>zr_metro</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/37/cs-global-offensive/map/zr-metro/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T06:04:20+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/37/750x212.jpg</image:loc>
+			<image:title>zr_metro</image:title>
+			<image:caption>zr_metro</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/37/cs-global-offensive/map/zr-metro/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T06:04:20+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/37/750x212.jpg</image:loc>
+			<image:title>zr_metro</image:title>
+			<image:caption>zr_metro</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/36/garrys-mod/fun-stuff/health-and-armor-charger</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T19:12:29+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/36/750x212.jpg</image:loc>
+			<image:title>Health and Armor Charger</image:title>
+			<image:caption>Health and Armor Charger</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/36/garrys-mod/fun-stuff/health-and-armor-charger/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T19:12:29+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/36/750x212.jpg</image:loc>
+			<image:title>Health and Armor Charger</image:title>
+			<image:caption>Health and Armor Charger</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/36/garrys-mod/fun-stuff/health-and-armor-charger/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T19:12:29+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/36/750x212.jpg</image:loc>
+			<image:title>Health and Armor Charger</image:title>
+			<image:caption>Health and Armor Charger</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/36/garrys-mod/fun-stuff/health-and-armor-charger/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T19:12:29+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/36/750x212.jpg</image:loc>
+			<image:title>Health and Armor Charger</image:title>
+			<image:caption>Health and Armor Charger</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/35/cs-global-offensive/map/zr-abandoned-hospital-z4e</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T18:27:50+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/35/750x212.jpg</image:loc>
+			<image:title>zr_abandoned_hospital_z4e</image:title>
+			<image:caption>zr_abandoned_hospital_z4e</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/35/cs-global-offensive/map/zr-abandoned-hospital-z4e/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T18:27:50+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/35/750x212.jpg</image:loc>
+			<image:title>zr_abandoned_hospital_z4e</image:title>
+			<image:caption>zr_abandoned_hospital_z4e</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/35/cs-global-offensive/map/zr-abandoned-hospital-z4e/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T18:27:50+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/35/750x212.jpg</image:loc>
+			<image:title>zr_abandoned_hospital_z4e</image:title>
+			<image:caption>zr_abandoned_hospital_z4e</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/35/cs-global-offensive/map/zr-abandoned-hospital-z4e/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T18:27:50+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/35/750x212.jpg</image:loc>
+			<image:title>zr_abandoned_hospital_z4e</image:title>
+			<image:caption>zr_abandoned_hospital_z4e</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/34/cs-global-offensive/gameplay/slowmotion</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-09-08T10:33:12+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/34/750x212.jpg</image:loc>
+			<image:title>Slowmotion</image:title>
+			<image:caption>Slowmotion</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/34/cs-global-offensive/gameplay/slowmotion/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-09-08T10:33:12+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/34/750x212.jpg</image:loc>
+			<image:title>Slowmotion</image:title>
+			<image:caption>Slowmotion</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/34/cs-global-offensive/gameplay/slowmotion/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-09-08T10:33:12+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/34/750x212.jpg</image:loc>
+			<image:title>Slowmotion</image:title>
+			<image:caption>Slowmotion</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/34/cs-global-offensive/gameplay/slowmotion/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-09-08T10:33:12+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/34/750x212.jpg</image:loc>
+			<image:title>Slowmotion</image:title>
+			<image:caption>Slowmotion</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/33/cs-global-offensive/skin/skins-packages</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-09-08T09:01:38+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/33/750x212.jpg</image:loc>
+			<image:title>Skins packages</image:title>
+			<image:caption>Skins packages</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/33/cs-global-offensive/skin/skins-packages/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-09-08T09:01:38+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/33/750x212.jpg</image:loc>
+			<image:title>Skins packages</image:title>
+			<image:caption>Skins packages</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/33/cs-global-offensive/skin/skins-packages/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-09-08T09:01:38+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/33/750x212.jpg</image:loc>
+			<image:title>Skins packages</image:title>
+			<image:caption>Skins packages</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/33/cs-global-offensive/skin/skins-packages/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-09-08T09:01:38+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/33/750x212.jpg</image:loc>
+			<image:title>Skins packages</image:title>
+			<image:caption>Skins packages</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/32/cs-global-offensive/statistical/timer-checkpoints</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:29:47+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/32/750x212.jpg</image:loc>
+			<image:title>[TIMER] - Checkpoints</image:title>
+			<image:caption>[TIMER] - Checkpoints</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/32/cs-global-offensive/statistical/timer-checkpoints/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:29:47+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/32/750x212.jpg</image:loc>
+			<image:title>[TIMER] - Checkpoints</image:title>
+			<image:caption>[TIMER] - Checkpoints</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/32/cs-global-offensive/statistical/timer-checkpoints/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:29:47+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/32/750x212.jpg</image:loc>
+			<image:title>[TIMER] - Checkpoints</image:title>
+			<image:caption>[TIMER] - Checkpoints</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/32/cs-global-offensive/statistical/timer-checkpoints/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:29:47+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/32/750x212.jpg</image:loc>
+			<image:title>[TIMER] - Checkpoints</image:title>
+			<image:caption>[TIMER] - Checkpoints</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/31/cs-global-offensive/fun-stuff/sprites</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T19:21:22+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/31/750x212.jpg</image:loc>
+			<image:title>Sprites</image:title>
+			<image:caption>Sprites</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/31/cs-global-offensive/fun-stuff/sprites/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T19:21:22+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/31/750x212.jpg</image:loc>
+			<image:title>Sprites</image:title>
+			<image:caption>Sprites</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/31/cs-global-offensive/fun-stuff/sprites/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T19:21:22+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/31/750x212.jpg</image:loc>
+			<image:title>Sprites</image:title>
+			<image:caption>Sprites</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/31/cs-global-offensive/fun-stuff/sprites/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T19:21:22+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/31/750x212.jpg</image:loc>
+			<image:title>Sprites</image:title>
+			<image:caption>Sprites</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/30/cs-global-offensive/fun-stuff/knives</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T13:06:35+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/30/750x212.jpg</image:loc>
+			<image:title>Knives</image:title>
+			<image:caption>Knives</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/30/cs-global-offensive/fun-stuff/knives/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T13:06:35+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/30/750x212.jpg</image:loc>
+			<image:title>Knives</image:title>
+			<image:caption>Knives</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/30/cs-global-offensive/fun-stuff/knives/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T13:06:35+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/30/750x212.jpg</image:loc>
+			<image:title>Knives</image:title>
+			<image:caption>Knives</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/30/cs-global-offensive/fun-stuff/knives/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T13:06:35+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/30/750x212.jpg</image:loc>
+			<image:title>Knives</image:title>
+			<image:caption>Knives</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/29/cs-global-offensive/gameplay/zombie-riot</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-09-08T08:36:29+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/29/750x212.jpg</image:loc>
+			<image:title>Zombie riot</image:title>
+			<image:caption>Zombie riot</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/29/cs-global-offensive/gameplay/zombie-riot/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-09-08T08:36:29+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/29/750x212.jpg</image:loc>
+			<image:title>Zombie riot</image:title>
+			<image:caption>Zombie riot</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/29/cs-global-offensive/gameplay/zombie-riot/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-09-08T08:36:29+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/29/750x212.jpg</image:loc>
+			<image:title>Zombie riot</image:title>
+			<image:caption>Zombie riot</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/29/cs-global-offensive/gameplay/zombie-riot/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-09-08T08:36:29+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/29/750x212.jpg</image:loc>
+			<image:title>Zombie riot</image:title>
+			<image:caption>Zombie riot</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/28/cs-global-offensive/gameplay/no-scope</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T11:06:08+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/28/750x212.jpg</image:loc>
+			<image:title>No Scope</image:title>
+			<image:caption>No Scope</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/28/cs-global-offensive/gameplay/no-scope/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T11:06:08+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/28/750x212.jpg</image:loc>
+			<image:title>No Scope</image:title>
+			<image:caption>No Scope</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/28/cs-global-offensive/gameplay/no-scope/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T11:06:08+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/28/750x212.jpg</image:loc>
+			<image:title>No Scope</image:title>
+			<image:caption>No Scope</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/28/cs-global-offensive/gameplay/no-scope/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T11:06:08+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/28/750x212.jpg</image:loc>
+			<image:title>No Scope</image:title>
+			<image:caption>No Scope</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/27/cs-global-offensive/fun-stuff/backfront-flip-bhop</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:24:41+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/27/750x212.jpg</image:loc>
+			<image:title>Back/Front Flip for Bhop</image:title>
+			<image:caption>Back/Front Flip for Bhop</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/27/cs-global-offensive/fun-stuff/backfront-flip-bhop/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:24:41+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/27/750x212.jpg</image:loc>
+			<image:title>Back/Front Flip for Bhop</image:title>
+			<image:caption>Back/Front Flip for Bhop</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/27/cs-global-offensive/fun-stuff/backfront-flip-bhop/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:24:41+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/27/750x212.jpg</image:loc>
+			<image:title>Back/Front Flip for Bhop</image:title>
+			<image:caption>Back/Front Flip for Bhop</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/27/cs-global-offensive/fun-stuff/backfront-flip-bhop/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:24:41+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/27/750x212.jpg</image:loc>
+			<image:title>Back/Front Flip for Bhop</image:title>
+			<image:caption>Back/Front Flip for Bhop</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/26/cs-global-offensive/fun-stuff/gifts-events</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T05:12:32+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/26/750x212.jpg</image:loc>
+			<image:title>Gifts events</image:title>
+			<image:caption>Gifts events</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/26/cs-global-offensive/fun-stuff/gifts-events/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T05:12:32+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/26/750x212.jpg</image:loc>
+			<image:title>Gifts events</image:title>
+			<image:caption>Gifts events</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/26/cs-global-offensive/fun-stuff/gifts-events/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T05:12:32+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/26/750x212.jpg</image:loc>
+			<image:title>Gifts events</image:title>
+			<image:caption>Gifts events</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/26/cs-global-offensive/fun-stuff/gifts-events/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T05:12:32+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/26/750x212.jpg</image:loc>
+			<image:title>Gifts events</image:title>
+			<image:caption>Gifts events</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/25/cs-global-offensive/general-purpose/sounds</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T21:23:26+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/25/750x212.jpg</image:loc>
+			<image:title>Sounds</image:title>
+			<image:caption>Sounds</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/25/cs-global-offensive/general-purpose/sounds/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T21:23:26+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/25/750x212.jpg</image:loc>
+			<image:title>Sounds</image:title>
+			<image:caption>Sounds</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/25/cs-global-offensive/general-purpose/sounds/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T21:23:26+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/25/750x212.jpg</image:loc>
+			<image:title>Sounds</image:title>
+			<image:caption>Sounds</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/25/cs-global-offensive/general-purpose/sounds/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T21:23:26+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/25/750x212.jpg</image:loc>
+			<image:title>Sounds</image:title>
+			<image:caption>Sounds</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/24/cs-global-offensive/gameplay/timer</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T15:34:50+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/24/750x212.jpg</image:loc>
+			<image:title>Timer</image:title>
+			<image:caption>Timer</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/24/cs-global-offensive/gameplay/timer/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T15:34:50+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/24/750x212.jpg</image:loc>
+			<image:title>Timer</image:title>
+			<image:caption>Timer</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/24/cs-global-offensive/gameplay/timer/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T15:34:50+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/24/750x212.jpg</image:loc>
+			<image:title>Timer</image:title>
+			<image:caption>Timer</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/24/cs-global-offensive/gameplay/timer/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T15:34:50+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/24/750x212.jpg</image:loc>
+			<image:title>Timer</image:title>
+			<image:caption>Timer</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/23/cs-global-offensive/general-purpose/adverts</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T23:48:05+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/23/750x212.jpg</image:loc>
+			<image:title>Adverts</image:title>
+			<image:caption>Adverts</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/23/cs-global-offensive/general-purpose/adverts/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T23:48:05+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/23/750x212.jpg</image:loc>
+			<image:title>Adverts</image:title>
+			<image:caption>Adverts</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/23/cs-global-offensive/general-purpose/adverts/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T23:48:05+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/23/750x212.jpg</image:loc>
+			<image:title>Adverts</image:title>
+			<image:caption>Adverts</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/23/cs-global-offensive/general-purpose/adverts/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T23:48:05+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/23/750x212.jpg</image:loc>
+			<image:title>Adverts</image:title>
+			<image:caption>Adverts</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/22/cs-global-offensive/fun-stuff/win-or-die</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T23:48:15+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/22/750x212.jpg</image:loc>
+			<image:title>Win or Die</image:title>
+			<image:caption>Win or Die</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/22/cs-global-offensive/fun-stuff/win-or-die/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T23:48:15+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/22/750x212.jpg</image:loc>
+			<image:title>Win or Die</image:title>
+			<image:caption>Win or Die</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/22/cs-global-offensive/fun-stuff/win-or-die/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T23:48:15+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/22/750x212.jpg</image:loc>
+			<image:title>Win or Die</image:title>
+			<image:caption>Win or Die</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/22/cs-global-offensive/fun-stuff/win-or-die/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T23:48:15+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/22/750x212.jpg</image:loc>
+			<image:title>Win or Die</image:title>
+			<image:caption>Win or Die</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/21/cs-global-offensive/gameplay/track-bomb</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T04:22:11+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/21/750x212.jpg</image:loc>
+			<image:title>Track Bomb</image:title>
+			<image:caption>Track Bomb</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/21/cs-global-offensive/gameplay/track-bomb/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T04:22:11+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/21/750x212.jpg</image:loc>
+			<image:title>Track Bomb</image:title>
+			<image:caption>Track Bomb</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/21/cs-global-offensive/gameplay/track-bomb/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T04:22:11+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/21/750x212.jpg</image:loc>
+			<image:title>Track Bomb</image:title>
+			<image:caption>Track Bomb</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/21/cs-global-offensive/gameplay/track-bomb/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T04:22:11+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/21/750x212.jpg</image:loc>
+			<image:title>Track Bomb</image:title>
+			<image:caption>Track Bomb</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/20/cs-global-offensive/gameplay/timer-world-record</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T09:20:53+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/20/750x212.jpg</image:loc>
+			<image:title>[TIMER] - World record</image:title>
+			<image:caption>[TIMER] - World record</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/20/cs-global-offensive/gameplay/timer-world-record/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T09:20:53+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/20/750x212.jpg</image:loc>
+			<image:title>[TIMER] - World record</image:title>
+			<image:caption>[TIMER] - World record</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/20/cs-global-offensive/gameplay/timer-world-record/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T09:20:53+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/20/750x212.jpg</image:loc>
+			<image:title>[TIMER] - World record</image:title>
+			<image:caption>[TIMER] - World record</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/20/cs-global-offensive/gameplay/timer-world-record/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T09:20:53+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/20/750x212.jpg</image:loc>
+			<image:title>[TIMER] - World record</image:title>
+			<image:caption>[TIMER] - World record</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/19/cs-global-offensive/fun-stuff/timer-skins</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T11:49:44+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/19/750x212.jpg</image:loc>
+			<image:title>[TIMER] - Skins</image:title>
+			<image:caption>[TIMER] - Skins</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/19/cs-global-offensive/fun-stuff/timer-skins/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T11:49:44+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/19/750x212.jpg</image:loc>
+			<image:title>[TIMER] - Skins</image:title>
+			<image:caption>[TIMER] - Skins</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/19/cs-global-offensive/fun-stuff/timer-skins/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T11:49:44+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/19/750x212.jpg</image:loc>
+			<image:title>[TIMER] - Skins</image:title>
+			<image:caption>[TIMER] - Skins</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/19/cs-global-offensive/fun-stuff/timer-skins/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T11:49:44+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/19/750x212.jpg</image:loc>
+			<image:title>[TIMER] - Skins</image:title>
+			<image:caption>[TIMER] - Skins</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/18/cs-global-offensive/fun-stuff/songs-while-mapchange</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T23:50:48+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/18/750x212.jpg</image:loc>
+			<image:title>Songs while mapchange</image:title>
+			<image:caption>Songs while mapchange</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/18/cs-global-offensive/fun-stuff/songs-while-mapchange/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T23:50:48+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/18/750x212.jpg</image:loc>
+			<image:title>Songs while mapchange</image:title>
+			<image:caption>Songs while mapchange</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/18/cs-global-offensive/fun-stuff/songs-while-mapchange/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T23:50:48+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/18/750x212.jpg</image:loc>
+			<image:title>Songs while mapchange</image:title>
+			<image:caption>Songs while mapchange</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/18/cs-global-offensive/fun-stuff/songs-while-mapchange/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T23:50:48+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/18/750x212.jpg</image:loc>
+			<image:title>Songs while mapchange</image:title>
+			<image:caption>Songs while mapchange</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/17/cs-global-offensive/general-purpose/show-damage-armor-victims</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T15:25:14+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/17/750x212.jpg</image:loc>
+			<image:title>Show damage armor victims</image:title>
+			<image:caption>Show damage armor victims</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/17/cs-global-offensive/general-purpose/show-damage-armor-victims/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T15:25:14+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/17/750x212.jpg</image:loc>
+			<image:title>Show damage armor victims</image:title>
+			<image:caption>Show damage armor victims</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/17/cs-global-offensive/general-purpose/show-damage-armor-victims/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T15:25:14+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/17/750x212.jpg</image:loc>
+			<image:title>Show damage armor victims</image:title>
+			<image:caption>Show damage armor victims</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/17/cs-global-offensive/general-purpose/show-damage-armor-victims/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T15:25:14+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/17/750x212.jpg</image:loc>
+			<image:title>Show damage armor victims</image:title>
+			<image:caption>Show damage armor victims</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/16/cs-global-offensive/fun-stuff/fx-predator-effects</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T11:52:13+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/16/750x212.jpg</image:loc>
+			<image:title>[FX] - Predator effects</image:title>
+			<image:caption>[FX] - Predator effects</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/16/cs-global-offensive/fun-stuff/fx-predator-effects/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T11:52:13+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/16/750x212.jpg</image:loc>
+			<image:title>[FX] - Predator effects</image:title>
+			<image:caption>[FX] - Predator effects</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/16/cs-global-offensive/fun-stuff/fx-predator-effects/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T11:52:13+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/16/750x212.jpg</image:loc>
+			<image:title>[FX] - Predator effects</image:title>
+			<image:caption>[FX] - Predator effects</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/16/cs-global-offensive/fun-stuff/fx-predator-effects/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T11:52:13+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/16/750x212.jpg</image:loc>
+			<image:title>[FX] - Predator effects</image:title>
+			<image:caption>[FX] - Predator effects</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/15/cs-global-offensive/fun-stuff/notifications-adminvip</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:31:12+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/15/750x212.jpg</image:loc>
+			<image:title>Notifications admin/vip</image:title>
+			<image:caption>Notifications admin/vip</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/15/cs-global-offensive/fun-stuff/notifications-adminvip/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:31:12+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/15/750x212.jpg</image:loc>
+			<image:title>Notifications admin/vip</image:title>
+			<image:caption>Notifications admin/vip</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/15/cs-global-offensive/fun-stuff/notifications-adminvip/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:31:12+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/15/750x212.jpg</image:loc>
+			<image:title>Notifications admin/vip</image:title>
+			<image:caption>Notifications admin/vip</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/15/cs-global-offensive/fun-stuff/notifications-adminvip/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:31:12+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/15/750x212.jpg</image:loc>
+			<image:title>Notifications admin/vip</image:title>
+			<image:caption>Notifications admin/vip</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/14/cs-global-offensive/server-management/high-ping-kicker</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T23:20:28+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/14/750x212.jpg</image:loc>
+			<image:title>High Ping Kicker</image:title>
+			<image:caption>High Ping Kicker</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/14/cs-global-offensive/server-management/high-ping-kicker/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T23:20:28+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/14/750x212.jpg</image:loc>
+			<image:title>High Ping Kicker</image:title>
+			<image:caption>High Ping Kicker</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/14/cs-global-offensive/server-management/high-ping-kicker/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T23:20:28+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/14/750x212.jpg</image:loc>
+			<image:title>High Ping Kicker</image:title>
+			<image:caption>High Ping Kicker</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/14/cs-global-offensive/server-management/high-ping-kicker/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T23:20:28+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/14/750x212.jpg</image:loc>
+			<image:title>High Ping Kicker</image:title>
+			<image:caption>High Ping Kicker</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/13/cs-global-offensive/fun-stuff/fx-ghost-rider</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T02:52:56+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/13/750x212.jpg</image:loc>
+			<image:title>[FX] - Ghost Rider</image:title>
+			<image:caption>[FX] - Ghost Rider</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/13/cs-global-offensive/fun-stuff/fx-ghost-rider/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T02:52:56+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/13/750x212.jpg</image:loc>
+			<image:title>[FX] - Ghost Rider</image:title>
+			<image:caption>[FX] - Ghost Rider</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/13/cs-global-offensive/fun-stuff/fx-ghost-rider/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T02:52:56+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/13/750x212.jpg</image:loc>
+			<image:title>[FX] - Ghost Rider</image:title>
+			<image:caption>[FX] - Ghost Rider</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/13/cs-global-offensive/fun-stuff/fx-ghost-rider/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T02:52:56+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/13/750x212.jpg</image:loc>
+			<image:title>[FX] - Ghost Rider</image:title>
+			<image:caption>[FX] - Ghost Rider</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/12/cs-global-offensive/general-purpose/credits-round</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T19:57:22+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/12/750x212.jpg</image:loc>
+			<image:title>Credits round</image:title>
+			<image:caption>Credits round</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/12/cs-global-offensive/general-purpose/credits-round/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T19:57:22+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/12/750x212.jpg</image:loc>
+			<image:title>Credits round</image:title>
+			<image:caption>Credits round</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/12/cs-global-offensive/general-purpose/credits-round/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T19:57:22+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/12/750x212.jpg</image:loc>
+			<image:title>Credits round</image:title>
+			<image:caption>Credits round</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/12/cs-global-offensive/general-purpose/credits-round/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T19:57:22+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/12/750x212.jpg</image:loc>
+			<image:title>Credits round</image:title>
+			<image:caption>Credits round</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/11/cs-global-offensive/gameplay/timer-competitive-ranking</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:44:18+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/11/750x212.jpg</image:loc>
+			<image:title>[TIMER] - Competitive ranking</image:title>
+			<image:caption>[TIMER] - Competitive ranking</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/11/cs-global-offensive/gameplay/timer-competitive-ranking/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:44:18+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/11/750x212.jpg</image:loc>
+			<image:title>[TIMER] - Competitive ranking</image:title>
+			<image:caption>[TIMER] - Competitive ranking</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/11/cs-global-offensive/gameplay/timer-competitive-ranking/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:44:18+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/11/750x212.jpg</image:loc>
+			<image:title>[TIMER] - Competitive ranking</image:title>
+			<image:caption>[TIMER] - Competitive ranking</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/11/cs-global-offensive/gameplay/timer-competitive-ranking/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T16:44:18+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/11/750x212.jpg</image:loc>
+			<image:title>[TIMER] - Competitive ranking</image:title>
+			<image:caption>[TIMER] - Competitive ranking</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/10/cs-global-offensive/fun-stuff/fx-collector-drone</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T15:43:12+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/10/750x212.jpg</image:loc>
+			<image:title>[FX] - Collector drone</image:title>
+			<image:caption>[FX] - Collector drone</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/10/cs-global-offensive/fun-stuff/fx-collector-drone/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T15:43:12+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/10/750x212.jpg</image:loc>
+			<image:title>[FX] - Collector drone</image:title>
+			<image:caption>[FX] - Collector drone</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/10/cs-global-offensive/fun-stuff/fx-collector-drone/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T15:43:12+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/10/750x212.jpg</image:loc>
+			<image:title>[FX] - Collector drone</image:title>
+			<image:caption>[FX] - Collector drone</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/10/cs-global-offensive/fun-stuff/fx-collector-drone/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T15:43:12+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/10/750x212.jpg</image:loc>
+			<image:title>[FX] - Collector drone</image:title>
+			<image:caption>[FX] - Collector drone</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/9/cs-global-offensive/gameplay/buildwar-v3</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T05:14:21+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/9/750x212.jpg</image:loc>
+			<image:title>Buildwar V3</image:title>
+			<image:caption>Buildwar V3</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/9/cs-global-offensive/gameplay/buildwar-v3/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T05:14:21+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/9/750x212.jpg</image:loc>
+			<image:title>Buildwar V3</image:title>
+			<image:caption>Buildwar V3</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/9/cs-global-offensive/gameplay/buildwar-v3/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T05:14:21+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/9/750x212.jpg</image:loc>
+			<image:title>Buildwar V3</image:title>
+			<image:caption>Buildwar V3</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/9/cs-global-offensive/gameplay/buildwar-v3/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T05:14:21+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/9/750x212.jpg</image:loc>
+			<image:title>Buildwar V3</image:title>
+			<image:caption>Buildwar V3</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/8/cs-global-offensive/general-purpose/timer-autorespawn</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T10:52:08+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/8/750x212.jpg</image:loc>
+			<image:title>[TIMER] - autorespawn</image:title>
+			<image:caption>[TIMER] - autorespawn</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/8/cs-global-offensive/general-purpose/timer-autorespawn/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T10:52:08+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/8/750x212.jpg</image:loc>
+			<image:title>[TIMER] - autorespawn</image:title>
+			<image:caption>[TIMER] - autorespawn</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/8/cs-global-offensive/general-purpose/timer-autorespawn/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T10:52:08+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/8/750x212.jpg</image:loc>
+			<image:title>[TIMER] - autorespawn</image:title>
+			<image:caption>[TIMER] - autorespawn</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/8/cs-global-offensive/general-purpose/timer-autorespawn/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T10:52:08+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/8/750x212.jpg</image:loc>
+			<image:title>[TIMER] - autorespawn</image:title>
+			<image:caption>[TIMER] - autorespawn</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/7/cs-global-offensive/gameplay/timer-credits</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T23:29:10+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/7/750x212.jpg</image:loc>
+			<image:title>[TIMER] - Credits</image:title>
+			<image:caption>[TIMER] - Credits</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/7/cs-global-offensive/gameplay/timer-credits/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T23:29:10+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/7/750x212.jpg</image:loc>
+			<image:title>[TIMER] - Credits</image:title>
+			<image:caption>[TIMER] - Credits</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/7/cs-global-offensive/gameplay/timer-credits/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T23:29:10+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/7/750x212.jpg</image:loc>
+			<image:title>[TIMER] - Credits</image:title>
+			<image:caption>[TIMER] - Credits</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/7/cs-global-offensive/gameplay/timer-credits/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T23:29:10+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/7/750x212.jpg</image:loc>
+			<image:title>[TIMER] - Credits</image:title>
+			<image:caption>[TIMER] - Credits</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/2/cs-global-offensive/gameplay/ammo-management</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T19:58:40+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/2/750x212.jpg</image:loc>
+			<image:title>AMMO MANAGEMENT</image:title>
+			<image:caption>AMMO MANAGEMENT</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/2/cs-global-offensive/gameplay/ammo-management/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T19:58:40+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/2/750x212.jpg</image:loc>
+			<image:title>AMMO MANAGEMENT</image:title>
+			<image:caption>AMMO MANAGEMENT</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/2/cs-global-offensive/gameplay/ammo-management/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T19:58:40+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/2/750x212.jpg</image:loc>
+			<image:title>AMMO MANAGEMENT</image:title>
+			<image:caption>AMMO MANAGEMENT</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/2/cs-global-offensive/gameplay/ammo-management/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T19:58:40+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/2/750x212.jpg</image:loc>
+			<image:title>AMMO MANAGEMENT</image:title>
+			<image:caption>AMMO MANAGEMENT</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/3/cs-global-offensive/general-purpose/bot-name-clan-tag-ping</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T15:45:39+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/3/750x212.jpg</image:loc>
+			<image:title>BOT : NAME, CLAN, TAG, PING</image:title>
+			<image:caption>BOT : NAME, CLAN, TAG, PING</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/3/cs-global-offensive/general-purpose/bot-name-clan-tag-ping/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T15:45:39+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/3/750x212.jpg</image:loc>
+			<image:title>BOT : NAME, CLAN, TAG, PING</image:title>
+			<image:caption>BOT : NAME, CLAN, TAG, PING</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/3/cs-global-offensive/general-purpose/bot-name-clan-tag-ping/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T15:45:39+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/3/750x212.jpg</image:loc>
+			<image:title>BOT : NAME, CLAN, TAG, PING</image:title>
+			<image:caption>BOT : NAME, CLAN, TAG, PING</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/3/cs-global-offensive/general-purpose/bot-name-clan-tag-ping/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-17T15:45:39+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/3/750x212.jpg</image:loc>
+			<image:title>BOT : NAME, CLAN, TAG, PING</image:title>
+			<image:caption>BOT : NAME, CLAN, TAG, PING</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/1/cs-global-offensive/server-management/afk-manager</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T15:47:03+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/1/750x212.jpg</image:loc>
+			<image:title>AFK MANAGER</image:title>
+			<image:caption>AFK MANAGER</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/1/cs-global-offensive/server-management/afk-manager/versions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T15:47:03+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/1/750x212.jpg</image:loc>
+			<image:title>AFK MANAGER</image:title>
+			<image:caption>AFK MANAGER</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/1/cs-global-offensive/server-management/afk-manager/discussions</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T15:47:03+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/1/750x212.jpg</image:loc>
+			<image:title>AFK MANAGER</image:title>
+			<image:caption>AFK MANAGER</image:caption>
+		</image:image>
+  </url>
+  <url>
+    <loc>https://sourcemod.devsapps.com/scripts/1/cs-global-offensive/server-management/afk-manager/issues</loc>
+		<priority>1.0</priority>
+		<lastmod>2017-08-18T15:47:03+02:00</lastmod>
+		<changefreq>daily</changefreq>
+		<image:image>
+			<image:loc>https://sourcemod.devsapps.com/assets/images/scripts/1/750x212.jpg</image:loc>
+			<image:title>AFK MANAGER</image:title>
+			<image:caption>AFK MANAGER</image:caption>
+		</image:image>
+  </url>
+</urlset>
+
